@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Sal-1807
-- 👀 I’m interested in ... Computer Science Applications , coding , developing  
-- 🌱 I’m currently learning ... B.tech 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Saloni 
+- 👀 I’m interested in ... Web dev , App dev and Game devv 
 - 📫 How to reach me ... salonipalo735@gmail.com
 - 😄 Pronouns: ... she / her 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love learning new things , reading mangas , watchinng animes , playing games ; also a really curious person , I take inspirations and ideas from around me ; im an approachable person , and you can always reach out to me , i'll reply as soon as possible 
 
 <!---
 Sal-1807/Sal-1807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
