@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saloni</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Volume](https://github.com/Sal-1807/Volume)
+- 🔭 I’m currently working on [Gyftee](https://github.com/Sal-1807/Gyftee)
 
-- 🌱 I’m currently learning **AI/ML , Backend**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **salonipalo735@gmail.com**
 
